@@ -1,0 +1,96 @@
+.container-wrap {
+  max-width: 100%;
+}
+
+.font-family-top-heading {
+  font-family: "icomoon";
+  font-size: 3em;
+  padding-top: 1em;
+}
+
+.colorlib-about {
+  padding-bottom: 1em;
+}
+
+.colorlib-services {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.colorlib-skills {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.colorlib-education {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.colorlib-experience {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.colorlib-work {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.colorlib-contact {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.mh-about-tag {
+  word-break: break-all;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.mh-about-tag ul {
+  padding-left: 0px;
+}
+.mh-about-tag ul li {
+  margin: 0px 6px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 4px 0px;
+  display: inline-block;
+}
+.mh-about-tag ul li span {
+  border: 1px solid #ffffff;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 8px;
+  color: #ffffff;
+}
+.mh-about-tag ul li span:hover {
+  background-color: transparent !important;
+}
+
+.project {
+  height: 400px;
+}
+
+.project .desc .con .icon {
+  font-weight: bold;
+  position: relative;
+  bottom: -20px;
+  left: 0px;
+}
+
+.project .desc .con .icon span a {
+  font-size: 1.2em;
+}
+.feature-project-list {
+  font-size: 12px;
+}
+
+.panel-title {
+  margin-bottom: 5px;
+}
+
+.social-media-icons a i {
+  font-size: 25px;
+  padding: 0 20px 0 20px;
+}
