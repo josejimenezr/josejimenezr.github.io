@@ -104,3 +104,7 @@
   text-decoration: none !important;
   color: white !important;
 }
+
+.detail-text {
+  font-size: 12px;
+}
