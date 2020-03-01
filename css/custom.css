@@ -1,9 +1,13 @@
+body {
+  font-size: 13px;
+}
+
 .container-wrap {
   max-width: 100%;
 }
 
 .font-family-top-heading {
-  font-family: "icomoon";
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 3em;
   padding-top: 1em;
 }
@@ -91,7 +95,7 @@
 }
 
 .social-media-icons a i {
-  font-size: 15px;
+  font-size: 20px;
   padding: 0 20px 0 20px;
 }
 
@@ -106,5 +110,10 @@
 }
 
 .detail-text {
-  font-size: 12px;
+  font-size: 14px;
+}
+
+#colorlib-aside #colorlib-logo a {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
 }
